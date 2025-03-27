@@ -7,5 +7,3 @@ namespace Antmba_MiPrimerProyectoClase02.Models
         public bool ShowRequestId => !string.IsNullOrEmpty(RequestId);
     }
 }
-
-//Este es el segundo cambio
